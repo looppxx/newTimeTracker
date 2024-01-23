@@ -80,8 +80,8 @@ namespace TimeTracker.Extensions
                         Name = "Authorization",
                         Description =
                             "Enter \"Bearer jwt-token\" as value. " +
-                            "Use https://localhost:44383/get-token to get read-only JWT token. " +
-                            "Use https://localhost:44383/get-token?admin=true to get admin (read-write) JWT token.",
+                            "Use https://localhost:5001/get-token to get read-only JWT token. " +
+                            "Use https://localhost:5001/get-token?admin=true to get admin (read-write) JWT token.",
                         In = OpenApiSecurityApiKeyLocation.Header
                     }));
 

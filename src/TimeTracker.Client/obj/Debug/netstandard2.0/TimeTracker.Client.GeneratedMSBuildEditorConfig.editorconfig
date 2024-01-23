@@ -1,5 +1,5 @@
 is_global = true
 build_property.RootNamespace = TimeTracker.Client
-build_property.ProjectDir = C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\
+build_property.ProjectDir = c:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

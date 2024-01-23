@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker.Client\\TimeTracker.Client.csproj": {}
+    "c:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker.Client\\TimeTracker.Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker.Client\\TimeTracker.Client.csproj": {
+    "c:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker.Client\\TimeTracker.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker.Client\\TimeTracker.Client.csproj",
+        "projectUniqueName": "c:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker.Client\\TimeTracker.Client.csproj",
         "projectName": "TimeTracker.Client",
-        "projectPath": "C:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker.Client\\TimeTracker.Client.csproj",
+        "projectPath": "c:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker.Client\\TimeTracker.Client.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker.Client\\obj\\",
+        "outputPath": "c:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

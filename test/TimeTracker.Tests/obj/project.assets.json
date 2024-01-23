@@ -9493,11 +9493,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\TimeTracker\\test\\TimeTracker.Tests\\TimeTracker.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Downloads\\newTimeTracker\\test\\TimeTracker.Tests\\TimeTracker.Tests.csproj",
       "projectName": "TimeTracker.Tests",
-      "projectPath": "C:\\Users\\Admin\\Downloads\\TimeTracker\\test\\TimeTracker.Tests\\TimeTracker.Tests.csproj",
+      "projectPath": "C:\\Users\\Admin\\Downloads\\newTimeTracker\\test\\TimeTracker.Tests\\TimeTracker.Tests.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Downloads\\TimeTracker\\test\\TimeTracker.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Downloads\\newTimeTracker\\test\\TimeTracker.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -9519,8 +9519,8 @@
         "netcoreapp3.0": {
           "targetAlias": "netcoreapp3.0",
           "projectReferences": {
-            "C:\\Users\\Admin\\Downloads\\TimeTracker\\src\\TimeTracker\\TimeTracker.csproj": {
-              "projectPath": "C:\\Users\\Admin\\Downloads\\TimeTracker\\src\\TimeTracker\\TimeTracker.csproj"
+            "C:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker\\TimeTracker.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker\\TimeTracker.csproj"
             }
           }
         }

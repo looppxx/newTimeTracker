@@ -12,72 +12,72 @@ namespace TimeTracker.Client.Pages
     using global::System.Linq;
     using global::System.Threading.Tasks;
     using global::Microsoft.AspNetCore.Components;
-#line 1 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\_Imports.razor"
+#line 1 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\_Imports.razor"
 using System.Net.Http;
 
 #line default
 #line hidden
-#line 2 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\_Imports.razor"
+#line 2 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Authorization;
 
 #line default
 #line hidden
-#line 3 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\_Imports.razor"
+#line 3 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Forms;
 
 #line default
 #line hidden
-#line 4 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\_Imports.razor"
+#line 4 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Routing;
 
 #line default
 #line hidden
-#line 5 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\_Imports.razor"
+#line 5 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\_Imports.razor"
 using Microsoft.AspNetCore.Components.Web;
 
 #line default
 #line hidden
-#line 6 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\_Imports.razor"
+#line 6 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\_Imports.razor"
 using Microsoft.JSInterop;
 
 #line default
 #line hidden
-#line 7 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\_Imports.razor"
+#line 7 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\_Imports.razor"
 using TimeTracker.Client;
 
 #line default
 #line hidden
-#line 8 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\_Imports.razor"
+#line 8 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\_Imports.razor"
 using TimeTracker.Client.Shared;
 
 #line default
 #line hidden
-#line 9 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\_Imports.razor"
+#line 9 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\_Imports.razor"
 using System.Net.Http.Headers;
 
 #line default
 #line hidden
-#line 10 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\_Imports.razor"
+#line 10 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\_Imports.razor"
 using Microsoft.AspNetCore.Authorization;
 
 #line default
 #line hidden
-#line 3 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\Pages\TimeEntryEdit.razor"
+#line 3 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\Pages\TimeEntryEdit.razor"
 using TimeTracker.Client.Models;
 
 #line default
 #line hidden
-#line 4 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\Pages\TimeEntryEdit.razor"
+#line 4 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\Pages\TimeEntryEdit.razor"
 using TimeTracker.Client.Security;
 
 #line default
 #line hidden
-#line 5 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\Pages\TimeEntryEdit.razor"
+#line 5 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\Pages\TimeEntryEdit.razor"
 using TimeTracker.Client.Services;
 
 #line default
 #line hidden
-#line 6 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\Pages\TimeEntryEdit.razor"
+#line 6 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\Pages\TimeEntryEdit.razor"
            [Authorize]
 
 #line default
@@ -92,7 +92,7 @@ using TimeTracker.Client.Services;
         {
         }
         #pragma warning restore 1998
-#line 128 "C:\Users\Admin\source\repos\aspnetcore-workshop-master\aspnetcore-workshop-master\src\TimeTracker.Client\Pages\TimeEntryEdit.razor"
+#line 128 "C:\Users\Admin\Downloads\newTimeTracker\src\TimeTracker.Client\Pages\TimeEntryEdit.razor"
        
     [Parameter] public long Id { get; set; }
     private string projectId = string.Empty;

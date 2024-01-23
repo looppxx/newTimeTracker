@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QPDk0AoJbWxhmZVj1iNz4d+8lwhAHjyHDiVrQUPhhH4BaSW3FtfmlfUq65DqrmEIE9oPttJpaHtiQ8gdCATjlQ==",
+  "dgSpecHash": "NAZBD3zEhnv66P4TXdiJupwqAeV5qBHBZSY29s2I4eXaikSlur5RHSia5eYNs7LP3eREpngpPdmyRG5zckWgxw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker.Client\\TimeTracker.Client.csproj",
+  "projectFilePath": "c:\\Users\\Admin\\Downloads\\newTimeTracker\\src\\TimeTracker.Client\\TimeTracker.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.authorization\\3.0.0\\microsoft.aspnetcore.authorization.3.0.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.aspnetcore.blazor\\3.0.0-preview9.19465.2\\microsoft.aspnetcore.blazor.3.0.0-preview9.19465.2.nupkg.sha512",
